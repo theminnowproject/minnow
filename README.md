@@ -21,7 +21,7 @@ These is a set of intermediate goals for the project. They are subject to change
 | MinServe | MinOS Server | Not Started |
 | MinWeb, MinML, MinScript | Our own little web browser with document markup and scripting language | Not Started |
 | Local MinPong | Pong in MinWeb for one or two players | Not Started |
-| Multiplayer MinPong | The final stage, or finish line, or whatever you want to call it. This is the big one.|
+| Multiplayer MinPong | The final stage, or finish line, or whatever you want to call it. This is the big one.| Not Started |
 
 # FAQ
 > How long will this take?
